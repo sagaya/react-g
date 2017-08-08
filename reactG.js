@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 const program = require('commander');
 var touch = require("touch")
 const mkdirp = require('mkdirp');
