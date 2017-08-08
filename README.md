@@ -1,6 +1,8 @@
 
 # react-g [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
+##ReactJS create-react-app extension to generate new components
+
 [npm-image]: https://img.shields.io/npm/v/react-g.svg
 [npm-url]: https://www.npmjs.com/package/react-g
 [downloads-image]: https://img.shields.io/npm/dm/get-package-readme.svg
