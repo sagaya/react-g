@@ -1,6 +1,6 @@
 {
   "name": "react-g",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "create-react-app extension to generate new components",
   "main": "reactG.js",
   "scripts": {
