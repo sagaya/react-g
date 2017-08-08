@@ -25,7 +25,6 @@ mkdirp('components/'+program.generate, (err)=>{
             console.log(err);
           }else {
             var filePath = path.join(__dirname, 'components', program.generate , program.generate + '.jsx');
-            console.log(filePath);
             fs.writeFile(filePath, newComponent, (err)=>{
               if (err) {
                 console.log(err);
